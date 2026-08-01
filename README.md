@@ -56,7 +56,7 @@ Students who successfully complete the official course requirements may become e
 
 ## 🌍 Official Links
 
-(* **CS50x Persian Website**)[https://cs50xpersian.ir/]
+* **CS50x Persian Website** (website link)[https://cs50xpersian.ir/]
 
 * **Purchase the Persian CS50 SQL Course**
   https://cs50xpersian.ir/product/%d8%af%d9%88%d8%b1%d9%87-%d8%b5%d9%81%d8%b1%d8%aa%d8%a7%d8%b5%d8%af-%d9%be%d8%a7%db%8c%da%af%d8%a7%d9%87-%d8%af%d8%a7%d8%af%d9%87-cs50sql/
