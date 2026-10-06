@@ -16,10 +16,10 @@ This project is published under the guidance of **Harvard University** and the *
 
 This course is taught by:
 
-* **David J. Malan**
-* **Carter Zenke**
-* **Borna Etminan**
-* **Saeed Souri**
+* [David J. Malan](https://github.com/dmalan)
+* [Carter Zenke](https://github.com/carterzenke)
+* [Borna Etminan](https://github.com/borna-etminan)
+* [Saeed Souri](https://github.com/saeid-souri)
 
 Together, they guide students from the fundamentals of SQL to practical database design, querying, and optimization.
 
